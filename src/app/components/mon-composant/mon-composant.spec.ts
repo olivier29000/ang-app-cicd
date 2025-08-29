@@ -28,4 +28,6 @@ describe('MonComposant', () => {
   });
 
   it('should return 6', () => {
-    expect(component.add(3, 3)).toEqual(5
+    expect(component.add(3, 3)).toEqual(5);
+  });
+});
